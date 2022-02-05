@@ -32,13 +32,66 @@ Requirements
 
 Class attendance is mandatory. I will take attendance each week; students who miss more than one class session will fail the subject. Students must come prepared to discuss each week's assignments. Students will complete ten homework assignments, due as indicated on the syllabus. Class presentations, in groups of two and three students, will be due in class on Lecture 9. Instructions for the homework assignments and class presentations will be distributed later in the term. There will also be a map quiz and a comprehensive final exam. Assignments will be weighted as follows:
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Nine Homework Assignments | 10 Points Each (90 Points Total) |
-| Map Quiz | 10 Points |
-| Class Presentation | 30 Points |
-| Final Exam | 70 Points |
-| Total | 200 Points 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nine Homework Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+10 Points Each (90 Points Total)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Map Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+10 Points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30 Points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+70 Points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+200 Points
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Statement on Cheating and Plagiarism
 ------------------------------------
