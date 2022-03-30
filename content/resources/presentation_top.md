@@ -4,6 +4,7 @@ description: This resource includes the guidelines for the oral report which is 
   be worked upon along with the proposed topics, and grading criteria for the report.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/10093bf1d18a240359dcdec282e6f049_presentation_top.pdf
 file_type: application/pdf
+parent_uid: a010c554-4180-ef81-758f-5287fb95c9f8
 resourcetype: Document
 title: presentation_top.pdf
 uid: 10093bf1-d18a-2403-59dc-dec282e6f049
